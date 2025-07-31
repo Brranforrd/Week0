@@ -1,7 +1,7 @@
 # Week 0
 
 ## 1. I learned about computational thinking
-- Computational thinking is a form of abstract and algorithmic thinking that involves, decompostion, pattern recognition, and debugging. With computational thinking, it allows me to become a better Programmer and navigate
+- Computational thinking is a form of abstract and algorithmic thinking that involves, decompostion, pattern recognition, and debugging. With computational thinking, it allows me to become a better Programmer and navigate web applications with ease.
 
 ## 2. I learned the basics of manuevering Github
 - Github is a type of version control system that stores files and edit them over time. Github is highly popular and useful to majority of coding developers
